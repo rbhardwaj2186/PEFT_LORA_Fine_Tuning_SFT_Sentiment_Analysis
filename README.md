@@ -1,5 +1,16 @@
 # Efficient Sentiment Analysis with PEFT and LoRA
 
+
+
+
+https://github.com/user-attachments/assets/b5a10bc3-0f6d-4bf5-afad-7dc42d1ef226
+
+
+
+https://github.com/user-attachments/assets/b33e8984-a860-48a3-88b2-e075c726ed9e
+
+
+
 A parameter-efficient approach to sentiment analysis using DistilBERT and Low-Rank Adaptation. This project demonstrates how to achieve high-accuracy sentiment classification while significantly reducing computational costs and model size.
 
 ## Features
