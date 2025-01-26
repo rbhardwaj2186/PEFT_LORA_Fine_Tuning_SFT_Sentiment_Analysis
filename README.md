@@ -177,5 +177,5 @@ MIT
 
 ## Contact
 
-Email: your.email@domain.com
-GitHub: [Your Profile]
+Email: rbhardwaj2186@gmail.com
+GitHub: https://rbhardwaj2186.github.io/portfolio/
